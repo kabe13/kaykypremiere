@@ -76,6 +76,26 @@
             opacity: 1;
             transform: translateX(0);
         }
+        /* Ajuste para o vídeo do TikTok */
+        .tiktok-embed-container {
+            width: 100%;
+            display: flex;
+            justify-content: center; /* Centraliza o vídeo */
+            margin-bottom: 15px; /* Espaçamento abaixo do vídeo */
+            /* Opcional: Adicione um height se quiser forçar uma altura mínima para o contêiner */
+            /* height: 450px; */ 
+        }
+        /* Garante que o blockquote do TikTok se adapte à largura */
+        .tiktok-embed {
+            max-width: 100% !important; /* Use !important para sobrepor estilos inline do TikTok se necessário */
+            width: 100%; /* Permite que o blockquote se expanda dentro do seu contêiner */
+        }
+        .tiktok-embed iframe { /* Estilo para o iframe dentro do embed do TikTok */
+            width: 100% !important;
+            height: 450px; /* Altura padrão para o vídeo do TikTok */
+        }
+
+        /* Remover .video-placeholder se não for mais usado para o TikTok */
         .video-placeholder {
             background-color: #000;
             width: 100%;
@@ -183,7 +203,7 @@
             background: #0097a7;
         }
         @media(max-width: 768px) {
-            .video-placeholder {
+            .video-placeholder, .tiktok-embed iframe { /* Incluído iframe para ajuste de altura em mobile */
                 height: 220px;
                 font-size: 16px;
             }
@@ -212,10 +232,9 @@
         <div class="nav-arrow right-arrow" onclick="nextSlide()">&#10095;</div>
 
         <div class="slide active">
-            <div class="<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@kaykypremiere/video/7509132884549143813" data-video-id="7509132884549143813" style="width: 100%; height: 450px;">
-  <section></section>
-</blockquote>
-<script async src="https://www.tiktok.com/embed.js"></script>">Vídeo Projeto 1</div>
+            <div class="tiktok-embed-container">
+                <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@kaykypremiere/video/7509132884549143813" data-video-id="7509132884549143813" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@kaykypremiere" href="https://www.tiktok.com/@kaykypremiere?refer=embed">@kaykypremiere</a> <p>Dia 2 da minha série como editor de vídeos! Sera que dessa vez eu consegui? 👀 #edição #editor #editss #edits #ediçãodevideo #efeitos #fyp #foryoupage #fouryou #memecut #Premiere</p> <a target="_blank" title="♬ SOFT LOVE - EMPTY BOTTLE" href="https://www.tiktok.com/music/SOFT-LOVE-7446270015944411152?refer=embed">♬ SOFT LOVE - EMPTY BOTTLE</a> </section> </blockquote>
+            </div>
             <div class="project-info">Kayky Editor (Brazil) <br> 50k | Subscribers: 700 </div>
         </div>
         <div class="slide">
@@ -281,7 +300,13 @@
                 modal.style.display = 'none';
             }, 300);
         }
+
+        document.addEventListener('DOMContentLoaded', () => {
+            showSlide(currentSlide);
+        });
     </script>
+
+    <script async src="https://www.tiktok.com/embed.js"></script>
 
 </body>
 </html>
