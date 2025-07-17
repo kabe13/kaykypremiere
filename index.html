@@ -77,60 +77,56 @@
             transform: translateX(0);
         }
 
-        /* Estilos para o placeholder de vídeo */
         .video-placeholder {
             background-color: #000;
             width: 100%;
-            height: 450px; /* Altura padrão para todos os vídeos/placeholders */
+            height: 450px;
             display: flex;
             align-items: center;
             justify-content: center;
             color: #fff;
             font-size: 20px;
             border-radius: 8px;
-            box-sizing: border-box; /* Garante que padding e borda não aumentem o tamanho */
-            overflow: hidden; /* Adicionado para garantir que o iframe não transborde */
+            box-sizing: border-box;
+            overflow: hidden;
         }
         .video-placeholder iframe {
             width: 100%;
             height: 100%;
             border: none;
-            border-radius: 8px; /* Aplica border-radius ao iframe */
+            border-radius: 8px;
         }
 
-
-        /* Ajustes específicos para o embed do TikTok */
         .tiktok-embed-container {
             width: 100%;
             display: flex;
             justify-content: center;
-            align-items: center; /* Centraliza verticalmente o conteúdo do TikTok */
-            margin: 0; /* Remove margem padrão */
-            padding: 0; /* Remove padding padrão */
-            overflow: hidden; /* Oculta qualquer conteúdo que transborde */
-            border-radius: 8px; /* Aplica o border-radius */
-            /* Define a altura do contêiner para que seja consistente com os placeholders */
+            align-items: center;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            border-radius: 8px;
             height: 450px;
         }
 
         .tiktok-embed {
             max-width: 100% !important;
-            width: 100%; /* Ajusta a largura do blockquote */
-            height: 100% !important; /* Faz o blockquote ocupar a altura do container */
-            margin: 0 !important; /* Remove margens internas do blockquote */
-            border: none !important; /* Remove qualquer borda */
-            padding: 0 !important; /* Remove padding interno */
-            box-sizing: border-box; /* Garante que padding e borda não aumentem o tamanho */
-            display: flex; /* Para centralizar o iframe dentro do blockquote */
+            width: 100%;
+            height: 100% !important;
+            margin: 0 !important;
+            border: none !important;
+            padding: 0 !important;
+            box-sizing: border-box;
+            display: flex;
             justify-content: center;
             align-items: center;
         }
 
         .tiktok-embed iframe {
             width: 100% !important;
-            height: 100% !important; /* Força o iframe a ter a altura do container */
-            border: none !important; /* Garante que o iframe não tenha borda */
-            background-color: black; /* Fundo para quando o vídeo não está visível ou carregando */
+            height: 100% !important;
+            border: none !important;
+            background-color: black;
         }
 
         .project-info {
@@ -154,6 +150,7 @@
             cursor: pointer;
             box-shadow: 0 2px 6px rgba(0,0,0,0.4);
             transition: background 0.3s, transform 0.2s;
+            z-index: 10;
         }
         .nav-arrow:hover {
             background: #0097a7;
@@ -230,22 +227,25 @@
         }
         @media(max-width: 768px) {
             .video-placeholder,
-            .tiktok-embed-container { /* Aplicar a altura em telas menores também */
+            .tiktok-embed-container {
                 height: 220px;
             }
-            /* Garantir que o iframe do TikTok se ajuste em telas menores */
             .tiktok-embed iframe {
                 height: 220px !important;
             }
-            .video-placeholder iframe { /* Ajuste para iframes de youtube em telas menores */
+            .video-placeholder iframe {
                 height: 220px !important;
             }
             .nav-arrow {
                 width: 35px;
                 height: 35px;
                 font-size: 24px;
-                left: -40px;
-                right: -40px;
+            }
+            .left-arrow {
+                left: 10px;
+            }
+            .right-arrow {
+                right: 10px;
             }
         }
     </style>
@@ -356,7 +356,6 @@
             }, 300);
         }
 
-        // Chamar showSlide inicialmente para garantir que o primeiro slide seja exibido corretamente
         document.addEventListener('DOMContentLoaded', () => {
             showSlide(currentSlide);
         });
