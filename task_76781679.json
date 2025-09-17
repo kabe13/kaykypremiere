@@ -1,0 +1,338 @@
+[
+    {
+        "questao_numero": 2,
+        "id_da_questao": 282754038,
+        "enunciado": "Leia o texto e responda à questão. [Texto sobre Peri em O Guarani] O texto apresenta uma das temáticas da primeira geração romântica brasileira, que é a:",
+        "imagem_url": null,
+        "alternativa_correta": "<p>idealização do indígena como exemplo de perfeição.</p>"
+    },
+    {
+        "questao_numero": 3,
+        "id_da_questao": 282754039,
+        "enunciado": "Leia o texto e responda à questão. [Texto de Úrsula sobre escravidão] Qual o tema deste fragmento do romance “Úrsula\"?",
+        "imagem_url": null,
+        "alternativa_correta": "<p>O sistema opressor escravocrata.<b><br /></b></p>"
+    },
+    {
+        "questao_numero": 4,
+        "id_da_questao": 282754040,
+        "enunciado": "Leia o texto e responda à questão. [Texto sobre Paulo Scott] Qual palavra exerce a função de adjetivo no texto?",
+        "imagem_url": null,
+        "alternativa_correta": "<p>Seleta.</p>"
+    },
+    {
+        "questao_numero": 5,
+        "id_da_questao": 282754041,
+        "enunciado": "Leia o texto e responda à questão. [Texto sobre Torto Arado] Qual a finalidade do texto?",
+        "imagem_url": null,
+        "alternativa_correta": "<p>Apresentar uma análise crítica sobre aspectos importantes da obra.<b><br /></b></p>"
+    },
+    {
+        "questao_numero": 6,
+        "id_da_questao": 282754042,
+        "enunciado": "Observe a fotografia e responda à questão. [Descrição de imagem de lixo] Qual é a denúncia feita pela foto?",
+        "imagem_url": "https://edusp-static.ip.tv/tms/edusp/tv.ip.edusp/fH6iGavQc9fFKanZFOYVLHGVCsuS1T.png",
+        "alternativa_correta": "<p>O descarte irregular de lixo doméstico.</p>"
+    },
+    {
+        "questao_numero": 7,
+        "id_da_questao": 282754043,
+        "enunciado": "Leia o texto e responda à questão. [Texto sobre desmatamento] No contexto da notícia, a fotodenúncia foi utilizada com o objetivo de",
+        "imagem_url": "https://edusp-static.ip.tv/tms/edusp/tv.ip.edusp/KPvPqTDiEZqeE44zbWCNPfdF8Z3G39.png",
+        "alternativa_correta": "<p>destacar visualmente a gravidade do desmatamento.</p>"
+    },
+    {
+        "questao_numero": 8,
+        "id_da_questao": 282754044,
+        "enunciado": "Leia o texto e responda à questão. [Texto sobre inclusão social] Identifique o trecho do texto em que há uma opinião do autor.",
+        "imagem_url": null,
+        "alternativa_correta": "<p style=\"text-align: justify;\">“Já nascemos com essas características e não podemos ser culpados por tê-las”.</p>"
+    },
+    {
+        "questao_numero": 9,
+        "id_da_questao": 282754045,
+        "enunciado": "Leia o texto e responda à questão. [Texto sobre lei de celulares em escolas] Qual é a tese defendida pelo autor?",
+        "imagem_url": null,
+        "alternativa_correta": "<p>A reflexão crítica da sociedade sobre a excessiva exposição às telas.</p>"
+    },
+    {
+        "questao_numero": 10,
+        "id_da_questao": 282754046,
+        "enunciado": "Leia o texto e responda à questão. [Texto sobre consumismo] No segundo parágrafo, o autor usa um tipo de argumento para convencer o leitor a concordar com sua opinião. Esse argumento é de",
+        "imagem_url": null,
+        "alternativa_correta": "<p>evidência, pois utiliza dados estatísticos para sustentar a argumentação.</p>"
+    },
+    {
+        "questao_numero": 11,
+        "id_da_questao": 282754047,
+        "enunciado": "Leia o texto e responda à questão. [Texto sobre redes sociais] Identifique em qual dos fragmentos do texto o termo destacado é um elemento de coesão sequencial, estabelecendo uma ligação entre as orações:",
+        "imagem_url": null,
+        "alternativa_correta": "<p>“[...] <u>porque</u> na verdade queremos receber sua autorização para entrar [...]”.</p>"
+    },
+    {
+        "questao_numero": 12,
+        "id_da_questao": 282754048,
+        "enunciado": "Leia o texto e responda à questão. [Texto sobre Gonçalves Dias] O texto apresenta uma das características da obra literária de Gonçalves Dias, autor representativo da primeira geração romântica brasileira. Qual é o tema principal abordado neste texto?",
+        "imagem_url": null,
+        "alternativa_correta": "<p>A contribuição para a construção da identidade nacional literária.</p>"
+    },
+    {
+        "questao_numero": 13,
+        "id_da_questao": 282754049,
+        "enunciado": "Leia os textos I e II e responda as questões. [Canção do exílio e cartum] O cartum de Caulos (Texto II) faz uma paródia ao poema de Gonçalves Dias (Texto I) ao",
+        "imagem_url": "https://edusp-static.ip.tv/tms/edusp/tv.ip.edusp/zoohmafysztv8O7N6qULbnEEFPpVo6.png",
+        "alternativa_correta": "<p>criticar a degradação ambiental no Brasil atual.</p>"
+    },
+    {
+        "questao_numero": 14,
+        "id_da_questao": 282754050,
+        "enunciado": "Leia o texto e responda à questão. [Imagem com comentário] No comentário sobre a notícia há a predominância da linguagem",
+        "imagem_url": "https://edusp-static.ip.tv/tms/edusp/tv.ip.edusp/LrWsCSIfhPIQQWxTIRt1AT8C1bbXnt.png",
+        "alternativa_correta": "<p>informal.</p>"
+    },
+    {
+        "questao_numero": 15,
+        "id_da_questao": 282754051,
+        "enunciado": "Leia o texto e responda à questão. [Texto sobre Machado de Assis] De acordo com o texto, Machado de Assis utiliza-se do recurso da ironia em suas crônicas para",
+        "imagem_url": null,
+        "alternativa_correta": "<p>abordar questões políticas e sociais de sua época.</p>"
+    },
+    {
+        "questao_numero": 16,
+        "id_da_questao": 282754052,
+        "enunciado": "Leia o texto e responda à questão. [Crônica sobre menino Miau] Nesta crônica, gênero jornalístico que tem como característica retratar o cotidiano, narra-se um fato inusitado que trata da",
+        "imagem_url": null,
+        "alternativa_correta": "<p>luta pela sobrevivência do menino com criatividade, diante das adversidades enfrentadas.</p>"
+    },
+    {
+        "questao_numero": 17,
+        "id_da_questao": 282754053,
+        "enunciado": "Leia o texto e responda à questão. [Texto sobre discurso indireto livre] O trecho apresenta uma forma narrativa que",
+        "imagem_url": null,
+        "alternativa_correta": "<p>mistura os pensamentos da personagem com a narração do narrador, sem uso de aspas.</p>"
+    },
+    {
+        "questao_numero": 18,
+        "id_da_questao": 282754054,
+        "enunciado": "Leia o texto e responda à questão. [Texto sobre literatura afro-brasileira] No contexto do texto, a literatura afro-brasileira é importante porque",
+        "imagem_url": null,
+        "alternativa_correta": "<p>destaca a diversidade cultural e contribui para a construção da identidade nacional.</p>"
+    },
+    {
+        "questao_numero": 19,
+        "id_da_questao": 282754055,
+        "enunciado": "Leia o texto e responda à questão. [Texto sobre literatura indígena] O objetivo principal do texto é",
+        "imagem_url": null,
+        "alternativa_correta": "<p>promover a valorização da literatura indígena como parte da diversidade cultural brasileira.</p>"
+    },
+    {
+        "questao_numero": 20,
+        "id_da_questao": 282754056,
+        "enunciado": "Leia o texto e responda à questão. [Texto sobre literatura brasileira contemporânea] De acordo com o texto, a literatura brasileira contemporânea é caracterizada por",
+        "imagem_url": null,
+        "alternativa_correta": "<p>abordar temas sociais atuais, como desigualdade e identidade cultural.</p>"
+    },
+    {
+        "questao_numero": 21,
+        "id_da_questao": 282754057,
+        "enunciado": "Leia o texto e responda à questão. [Texto sobre Machado de Assis e realismo] O realismo em Memórias Póstumas de Brás Cubas se manifesta principalmente através da",
+        "imagem_url": null,
+        "alternativa_correta": "<p>crítica social e análise psicológica dos personagens.</p>"
+    },
+    {
+        "questao_numero": 22,
+        "id_da_questao": 282754058,
+        "enunciado": "Leia o texto e responda à questão. [Texto sobre modernismo] A Semana de Arte Moderna de 1922 representou",
+        "imagem_url": null,
+        "alternativa_correta": "<p>um marco na renovação cultural e artística do Brasil.</p>"
+    },
+    {
+        "questao_numero": 23,
+        "id_da_questao": 282754059,
+        "enunciado": "Leia o texto e responda à questão. [Texto sobre regionalismo] O regionalismo na literatura brasileira busca",
+        "imagem_url": null,
+        "alternativa_correta": "<p>retratar as peculiaridades das diferentes regiões do país.</p>"
+    },
+    {
+        "questao_numero": 24,
+        "id_da_questao": 282754060,
+        "enunciado": "Leia o texto e responda à questão. [Texto sobre Clarice Lispector] A obra de Clarice Lispector é conhecida por",
+        "imagem_url": null,
+        "alternativa_correta": "<p>explorar o interior dos personagens e questões existenciais.</p>"
+    },
+    {
+        "questao_numero": 25,
+        "id_da_questao": 282754061,
+        "enunciado": "Leia o texto e responda à questão. [Texto sobre Guimarães Rosa] Em Grande Sertão: Veredas, Guimarães Rosa utiliza",
+        "imagem_url": null,
+        "alternativa_correta": "<p>uma linguagem inovadora que mistura regionalismos e neologismos.</p>"
+    },
+    {
+        "questao_numero": 26,
+        "id_da_questao": 282754062,
+        "enunciado": "Leia o texto e responda à questão. [Texto sobre literatura e sociedade] A literatura pode servir como",
+        "imagem_url": null,
+        "alternativa_correta": "<p>ferramenta de crítica social e reflexão sobre a realidade.</p>"
+    },
+    {
+        "questao_numero": 27,
+        "id_da_questao": 282754063,
+        "enunciado": "Leia o texto e responda à questão. [Texto sobre poesia brasileira] A poesia brasileira contemporânea frequentemente aborda",
+        "imagem_url": null,
+        "alternativa_correta": "<p>temas como identidade, gênero e política.</p>"
+    },
+    {
+        "questao_numero": 28,
+        "id_da_questao": 282754064,
+        "enunciado": "Leia o texto e responda à questão. [Texto sobre teatro brasileiro] O teatro brasileiro no século XX foi marcado por",
+        "imagem_url": null,
+        "alternativa_correta": "<p>experiências inovadoras e críticas sociais.</p>"
+    },
+    {
+        "questao_numero": 29,
+        "id_da_questao": 282754065,
+        "enunciado": "Leia o texto e responda à questão. [Texto sobre cinema e literatura] A adaptação de obras literárias para o cinema",
+        "imagem_url": null,
+        "alternativa_correta": "<p>pode ampliar o alcance da literatura.</p>"
+    },
+    {
+        "questao_numero": 30,
+        "id_da_questao": 282754066,
+        "enunciado": "Leia o texto e responda à questão. [Texto sobre educação e literatura] A literatura na educação contribui para",
+        "imagem_url": null,
+        "alternativa_correta": "<p>o desenvolvimento do pensamento crítico e da empatia.</p>"
+    },
+    {
+        "questao_numero": 31,
+        "id_da_questao": 282754067,
+        "enunciado": "Leia o texto e responda à questão. [Texto sobre história do Brasil colonial] O período colonial brasileiro foi caracterizado por",
+        "imagem_url": null,
+        "alternativa_correta": "<p>a exploração econômica e a miscigenação cultural.</p>"
+    },
+    {
+        "questao_numero": 32,
+        "id_da_questao": 282754068,
+        "enunciado": "Leia o texto e responda à questão. [Texto sobre independência do Brasil] A independência do Brasil em 1822 resultou em",
+        "imagem_url": null,
+        "alternativa_correta": "<p>a manutenção de estruturas sociais escravistas.</p>"
+    },
+    {
+        "questao_numero": 33,
+        "id_da_questao": 282754069,
+        "enunciado": "Observe a pintura e responda à questão. [Pintura Proclamação da República] Com base na observação da pintura e no contexto histórico da Proclamação da República, é correto afirmar que a",
+        "imagem_url": "https://edusp-static.ip.tv/tms/edusp/tv.ip.edusp/EZu8YUGeMOK9G97c8A4fI5kBRXWW4I.png",
+        "alternativa_correta": "<p>proclamação foi um movimento liderado por militares e civis republicanos.</p>"
+    },
+    {
+        "questao_numero": 34,
+        "id_da_questao": 282754070,
+        "enunciado": "Analise a imagem “Voto de Cabresto”, leia o texto e responda. [Imagem voto de cabresto] Qual das alternativa melhor descreve o voto de cabresto?",
+        "imagem_url": "https://edusp-static.ip.tv/tms/edusp/tv.ip.edusp/FRtPch74RUOnzHG5ndKqCt00O45yHv.png",
+        "alternativa_correta": "<p style=\"text-align: justify;\">Consistia no controle do voto dos eleitores por chefes políticos locais, muitas vezes com coerção e favores.</p>"
+    },
+    {
+        "questao_numero": 35,
+        "id_da_questao": 282754071,
+        "enunciado": "A Revolução de 1930 marcou o fim da chamada \"República Velha\" no Brasil... Assinale a alternativa correta sobre a Revolução de 1930",
+        "imagem_url": null,
+        "alternativa_correta": "<p style=\"text-align: justify;\">Vargas assumiu o governo em caráter provisório, rompeu com as oligarquias regionais e centralizou o poder político.</p>"
+    },
+    {
+        "questao_numero": 36,
+        "id_da_questao": 282754072,
+        "enunciado": "Observe a imagem e responda. [Imagem Revolução Constitucionalista] A Revolução Constitucionalista de 1932 foi uma reação contra o governo provisório de Getúlio Vargas... Sobre esse conflito é correto afirmar que",
+        "imagem_url": "https://edusp-static.ip.tv/tms/edusp/tv.ip.edusp/YdmQUapGFBgzkSAKh8Frbd4mjc8Hmz.png",
+        "alternativa_correta": "<p>o levante paulista exigia a convocação de uma Assembleia Constituinte e o retorno da legalidade constitucional.</p>"
+    },
+    {
+        "questao_numero": 37,
+        "id_da_questao": 282754073,
+        "enunciado": "A década de 1930 no Brasil foi marcada por intensas disputas políticas... Com base em seus conhecimentos, aponte a alternativa que melhor caracteriza o período.",
+        "imagem_url": null,
+        "alternativa_correta": "<p style=\"text-align: justify;\">A Constituição de 1934 trouxe avanços democráticos, mas a Intentona Comunista e o Plano Cohen foram usados para justificar o golpe de 1937 e o Estado Novo.</p>"
+    },
+    {
+        "questao_numero": 38,
+        "id_da_questao": 282754074,
+        "enunciado": "(Vunesp 2015 adaptada) [Texto sobre Estado Novo] A \"nova ordem\", conhecida como Estado Novo (1937–1945), implantada por Getúlio Vargas, caracterizou-se:",
+        "imagem_url": null,
+        "alternativa_correta": "<p style=\"text-align: justify;\">pela extinção dos órgãos legislativos e pelo intervencionismo do Estado na economia.</p>"
+    },
+    {
+        "questao_numero": 40,
+        "id_da_questao": 282754076,
+        "enunciado": "A política está diretamente relacionada à convivência em sociedade... Podemos considerar três esferas da política como fundamentais para a organização das sociedades. São elas:",
+        "imagem_url": null,
+        "alternativa_correta": "<p style=\"text-align: justify;\"><span id=\"docs-internal-guid-4cdaf80b-7fff-0ff4-a73f-79e6e127b0dc\">formas de mediação de conflitos e controvérsias; procedimentos de tomada de decisões públicas; o exercício do poder.</span></p>"
+    },
+    {
+        "questao_numero": 41,
+        "id_da_questao": 282754077,
+        "enunciado": "O Estado é uma instituição política especializada... Assinale a alternativa que apresenta as dimensões estruturantes para a noção de Estado:",
+        "imagem_url": null,
+        "alternativa_correta": "<p><span id=\"docs-internal-guid-1c5a5d32-7fff-4f6c-f063-b58885c8faee\">Território; Povo; Governo; Soberania</span></p>"
+    },
+    {
+        "questao_numero": 42,
+        "id_da_questao": 282754078,
+        "enunciado": "Para que a vida social seja minimamente assegurada em suas bases legais... Tais esferas desempenham, respectivamente, as seguintes funcionalidades:",
+        "imagem_url": null,
+        "alternativa_correta": "<p style=\"text-align: justify;\"><span id=\"docs-internal-guid-91c89481-7fff-be7f-5fe1-2359249fabe2\">Elaborar, revisar e inovar as leis que organizam a sociedade; Executar leis no âmbito da administração pública; Acompanhar as aplicações da lei.</span></p>"
+    },
+    {
+        "questao_numero": 43,
+        "id_da_questao": 282754079,
+        "enunciado": "Ao longo do tempo, os Estados criaram conjuntos de instituições políticas... Assinale abaixo a alternativa que contém exemplos, respectivamente, de sistema político, forma de governo e regime político:",
+        "imagem_url": null,
+        "alternativa_correta": "<p><span id=\"docs-internal-guid-1c86c863-7fff-9a87-ab47-ee7e0dec43c1\">República; Parlamentarismo; Democrático.</span></p>"
+    },
+    {
+        "questao_numero": 44,
+        "id_da_questao": 282754080,
+        "enunciado": "O sistema de governo brasileiro está baseado na descentralização do poder... Assinale a alternativa correta sobre o sistema de governo brasileiro:",
+        "imagem_url": null,
+        "alternativa_correta": "<p style=\"text-align: justify;\"><span id=\"docs-internal-guid-bcf8da75-7fff-e688-11ba-ac79d80db30b\">Trata-se de uma República Federativa, na qual a administração pública se articula entre União, Estados e Municípios.</span></p>"
+    },
+    {
+        "questao_numero": 45,
+        "id_da_questao": 282754081,
+        "enunciado": "Políticas públicas estão ligadas à forma como o governo traduz as necessidades... Um ciclo de políticas públicas envolve uma série de diálogos, debates e deliberações... A partir dele são elaborados os projetos de lei, que seguem, geralmente, os seguintes passos:",
+        "imagem_url": null,
+        "alternativa_correta": "<p><span id=\"docs-internal-guid-bf9a1791-7fff-89dd-c45a-903d84f912a5\">Construção de agenda; Formulação da política; Tomada de decisão</span></p>"
+    },
+    {
+        "questao_numero": 47,
+        "id_da_questao": 282754083,
+        "enunciado": "Leia o texto e responda à questão. [Texto sobre autoimagem] De acordo com o texto, para construir uma autoimagem impactante ao falar em público é fundamental",
+        "imagem_url": null,
+        "alternativa_correta": "<p>valorizar suas características próprias e ser autêntico.</p>"
+    },
+    {
+        "questao_numero": 48,
+        "id_da_questao": 282754084,
+        "enunciado": "Leia o texto e responda à questão. [Texto sobre apresentação pessoal] Considerando o texto, quais elementos contribuem para um discurso de apresentação pessoal?",
+        "imagem_url": null,
+        "alternativa_correta": "<p>Ter clareza na comunicação, tom de voz adequado e boa postura.</p>"
+    },
+    {
+        "questao_numero": 49,
+        "id_da_questao": 282754085,
+        "enunciado": "Leia o texto e responda à questão. [Texto sobre respiração] Conforme o texto, as técnicas de respiração são importantes na preparação do orador, pois",
+        "imagem_url": null,
+        "alternativa_correta": "<p>ajudam a controlar as emoções antes da fala.</p>"
+    },
+    {
+        "questao_numero": 50,
+        "id_da_questao": 282754091,
+        "enunciado": "Leia o texto e responda à questão. [Texto sobre primeira impressão] De acordo com o texto, em uma entrevista de emprego",
+        "imagem_url": null,
+        "alternativa_correta": "<p>a primeira impressão exerce influência na avaliação do entrevistador.</p>"
+    },
+    {
+        "questao_numero": 51,
+        "id_da_questao": 282754092,
+        "enunciado": "Leia o texto e responda à questão. [Texto sobre apresentações corporativas] Com base no texto, uma estratégia para manter a atenção do público é:",
+        "imagem_url": null,
+        "alternativa_correta": "<p>Criar empatia com a plateia, tornando a apresentação mais envolvente.</p>"
+    }
+]
